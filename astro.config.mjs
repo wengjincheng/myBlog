@@ -100,6 +100,11 @@ export default defineConfig({
     ],
   },
   vite: {
+    resolve: {
+      alias: {
+        '@images': '/src/assets/images',
+      },
+    },
     build: {
       rollupOptions: {
         onwarn(warning, warn) {
