@@ -65,7 +65,7 @@ git commit --amend // change latest commit
 ## discard commits
 
 ``` shell
-git reset --hard commitname // 这个commit之后的commits都会被删除
+git reset --hard commitname // head will target this commit and all commits after this commit will be deleted
 ```
 
 ## Tags
