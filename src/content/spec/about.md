@@ -1,9 +1,9 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About me
 
-::github{repo="saicaca/fuwari"}
+### Who am I
+I am Adam Weng, holding both a bachelor's and a master's degree in computer science. I am a software engineer focusing primarily on web and machine learning software development. I have previously developed an online real estate rental and sales website at [Iletpro](https://www.iletpro.com/) and worked on 5G Troubleshooter software at [Nokia](https://www.nokia.com/). Currently, I am developing financial transaction software systems at PayPal.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+### Things I am interst or doing
+
+I am preparing to become a contributor of Node.js project, and I am very love to study anything related Machine Learning and DeepLearning.
+
