@@ -8,11 +8,15 @@ I am Adam Weng, holding both a bachelor's and a master's degree in computer scie
 <img style="margin: 0px" src="https://nmgimg.www.panguidc.com/2024/08/04/5a08aaca64537b1042fe7ecb8e9140b3.png" alt="Paypal" width="200" height="auto">
 I have been working as a Full-Stack Engineer at PayPal since July 2024, where I have been involved in the development of PayPal's reconciliation compliance system and marketing business system.
 
-<img style="margin: 0px" src="https://nmgimg.www.panguidc.com/2024/08/04/ade0d4887f1a53c47425b3c8c6e6f3fe.png" alt="Paypal" width="200" height="auto">
+<img style="margin: 0px" src="https://nmgimg.www.panguidc.com/2024/08/04/ade0d4887f1a53c47425b3c8c6e6f3fe.png" alt="NOKIA" width="200" height="auto">
 From 2021 to August 2023, I worked as a Full-Stack Engineer at NOKIA. During my time there, I was responsible for developing a 5G communication log analysis visualization system in collaboration with colleagues from Poland, Germany, France, and Finland, which helped 5G communication engineers improve the efficiency of analyzing communication logs.
 
 <img style="margin-bottom: 20px" src="https://kunpro.s3.eu-west-2.amazonaws.com/sites/default.svg" alt="Iletpro" width="200" height="auto">
 From 2019 to 2020, I worked as a Full-Stack Engineer at Iletpro, a startup. I was responsible for collaborating with the CEO to analyze our product and business model, and developing a rental property management system tailored to the UK market. Additionally, I worked with the CEO to build the technical team and refine our technical infrastructure, leading to the successful development of the Iletpro rental property system.
+
+<img style="margin-bottom: 20px" src="https://www.juwaistatic.com/juwai-com-v2/assets/img/branding/logo-juwai.a302af13.png" alt="Juwai" width="200" height="auto">
+
+From 2017 to 2019, I joined the Juwai.com technical team as an outsourced technical support role, collaborating with front-end and back-end engineers to develop Juwai.com and its backend support system.
 
 ### Education
 
